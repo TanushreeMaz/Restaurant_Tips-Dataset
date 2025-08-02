@@ -32,18 +32,29 @@ Raw Data often consist of errors, blanks, duplicates, missing values, incomplete
 # Feature engineering  
 An appropriate model needed proper and structured data. Feature is defined as Independent Variables. The process of creating or modifying existing ones to improve the quality of Performance Model 
 In simpler terms we call it creating new data points to help a machine learning model work better. 
-
-
  
 To improve the Dataset, we are converting categorical data into numeric form. 
+
+<img width="825" height="322" alt="image" src="https://github.com/user-attachments/assets/999fb674-ff79-47f2-b379-aec2ff8f783a" />
+
 
 # Feature selection 
 To predict the restaurant tips, first initial step to check the independent and dependent variable for regression model. As we are predicting tip, tip is dependent variable, and rest variables are independent variable. 
  
 Next, to check the covariance, correlation, and multicollinearity between independent and dependent variable. In simpler term, Correlation, and to a lesser extent covariance, helps reveal variable relationships, improving feature selection and model understanding. 
 
+<img width="834" height="403" alt="image" src="https://github.com/user-attachments/assets/864ebc96-224a-4c84-acd8-4d4400b75da6" />
+
+<img width="1011" height="275" alt="image" src="https://github.com/user-attachments/assets/84223e07-3437-4edf-adbb-603b2cf287c0" />
+
+<img width="894" height="194" alt="image" src="https://github.com/user-attachments/assets/df5c58b9-822d-496d-ac7f-6f2adf7c04c1" />
+
+
 # Model Building 
  The next and important stage of the project involves constructing a model to monitor decision-making processes, forecast outcomes, optimize performance, and analyze trends. This model will help estimate future expenses and predict the tips the restaurant is likely to receive in the upcoming days. 
+
+ <img width="1017" height="533" alt="image" src="https://github.com/user-attachments/assets/60eec3cb-75cc-4dd7-9efd-cd27a199e166" />
+
 
 # Output and Model Evaluation Measure 
 - R – Squared and P - Value
