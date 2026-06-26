@@ -16,7 +16,7 @@ I developed a regression model to examine the coefficient, R-squared value, and 
  Also calculated the predicted tip and error percentage to assess the accuracy of the predictions.
 
 
-# Data cleaning – 
+# Data cleaning 
 Raw Data often consist of errors, blanks, duplicates, missing values, incomplete value, format error, etc. which can cause undermine the quality and reliability of any analysis or decision-making process. Irrelevant dataset could cause can clutter, and avoid performance and decision-making. 
 
 <img width="1694" height="552" alt="image" src="https://github.com/user-attachments/assets/441a7908-15d2-401e-acb0-562a87928a3f" />
@@ -72,6 +72,9 @@ Next, to check the covariance, correlation, and multicollinearity between indepe
 -	Error (%)
 
   <img width="236" height="264" alt="image" src="https://github.com/user-attachments/assets/62e3a972-4d49-4821-b91e-62d5b6ccf3f8" />
+
+
+  
 
 
  
