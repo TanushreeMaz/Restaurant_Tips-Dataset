@@ -73,6 +73,9 @@ Next, to check the covariance, correlation, and multicollinearity between indepe
 
   <img width="236" height="264" alt="image" src="https://github.com/user-attachments/assets/62e3a972-4d49-4821-b91e-62d5b6ccf3f8" />
 
+  ----
+
+  
 
   
 
